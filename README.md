@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋<br> I'm Alex.</h1>
-<h3 align="center"><strike>Junior? Beginner? </strike> Frontend developer from Saint-Petersburg, Russia</h3>
+<h3 align="center">Frontend developer from Saint-Petersburg, Russia</h3>
 <ul>
 <li>🔭 I’m currently working on my portfolio</li>
 <li>🌱 I’m currently learning React and Angular</li>
